@@ -21,7 +21,7 @@ The business needed answers to five critical questions:
 ## Dataset
 
 Retail Insights: A Comprehensive Sales Dataset
-https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset
+<a href = "https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset"> Dataset Link </a>
 
 ---
 
@@ -79,8 +79,8 @@ https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sale
 - Weighted Composite KPI Scoring (min-max normalization)
 - Profit Waterfall (Gross Revenue to Net Profit)
 
-## Dashboards
-
+## Executive Performance Dashboard
+<img width="1143" height="590" alt="Executive Performance" src="[https://github.com/user-attachments/assets/6cbbd510-b9ef-4287-a856-7c280f663bcc](https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/Executive%20Dashboard.jpg)" />
 ## Recommendations Summary
  
 | # | Finding                        | Recommended Action                         |
@@ -103,7 +103,7 @@ https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sale
  
 ## About
  
-**[YOUR NAME]**
+**[ABID HASAN]**
 Data Analyst | Excel · SQL · Power BI
  
  [aaabidhasan01@gmail.com]
