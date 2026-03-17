@@ -81,6 +81,20 @@ Retail Insights: A Comprehensive Sales Dataset
 
 ## Executive Performance Dashboard
 <img width="1143" height="590" alt="Executive Performance" src="https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/Executive%20Dashboard.jpg" />
+
+## Product Performance
+<img width="1143" height="590" alt="Product Performance" src="https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/Product%20Performance.jpg" />
+
+## Account Manager Monitoring
+<img width="1143" height="590" alt="Product Performance" src="https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/AM%20Performance.jpg" />
+
+## Customer Lifetime Value Analysis
+<img width="1143" height="590" alt="Product Performance" src="https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/CLV%20Analysis.jpg" />
+
+## Sales Trend Analysis
+<img width="1143" height="590" alt="Product Performance" src="https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/Sales%20Trend.jpg" />
+
+
 ## Recommendations Summary
  
 | # | Finding                        | Recommended Action                         |
