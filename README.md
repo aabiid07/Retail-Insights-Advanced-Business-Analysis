@@ -80,7 +80,7 @@ Retail Insights: A Comprehensive Sales Dataset
 - Profit Waterfall (Gross Revenue to Net Profit)
 
 ## Executive Performance Dashboard
-<img width="1143" height="590" alt="Executive Performance" src="[https://github.com/user-attachments/assets/6cbbd510-b9ef-4287-a856-7c280f663bcc](https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/Executive%20Dashboard.jpg)" />
+<img width="1143" height="590" alt="Executive Performance" src="https://github.com/aabiid07/Retail-Insights-Advanced-Business-Analysis/blob/main/Executive%20Dashboard.jpg" />
 ## Recommendations Summary
  
 | # | Finding                        | Recommended Action                         |
