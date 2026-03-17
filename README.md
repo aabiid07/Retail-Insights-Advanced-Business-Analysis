@@ -28,18 +28,18 @@ Retail Insights: A Comprehensive Sales Dataset
 ## Key Findings
 
 ### 1. Product Profitability  
--**21 products (8% of SKUs) generates 80% of net profit** 
+- **21 products (8% of SKUs) generates 80% of net profit** 
 - Top product: Cando PC940 copier at $412,128 net profit
 - 188 products generates only 5% of profit combined
 - Recommendation: Concentrate marketing and stock on 21 products only
 
 ### 2. Customer Lifetime Value
--**Top 10% of customers (78 people) drive 55.6% of all profit**
+- **Top 10% of customers (78 people) drive 55.6% of all profit**
 - Champion tier customers average $15,422 lifetime profit each
 - Recommendation: Dedicated VIP retention program for top 78 accounts
 
 ### 3. Seasonality 
--**October is peak month - demand runs 26% above annual average**
+- **October is peak month - demand runs 26% above annual average**
 - June is the weakest month at 22% below average
 - Recommendation: Build 30% extra inventory before October each year
 
