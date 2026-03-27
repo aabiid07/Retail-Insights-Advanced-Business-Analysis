@@ -1,4 +1,4 @@
-# Retail-Insights-Advanced-Business-Analysis
+# Retail Sales Performance and Customer Intelligence Dashboard 
 
 ## Project Overview
 
